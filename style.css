@@ -1,0 +1,14 @@
+.Container{
+    margin: auto;
+    padding: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: red;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+*{
+    background-color: yellowgreen;
+}
